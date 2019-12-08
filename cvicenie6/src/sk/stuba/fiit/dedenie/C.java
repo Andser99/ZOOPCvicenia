@@ -1,0 +1,1 @@
+package sk.stuba.fiit.dedenie;public class C extends B {	public C() {		System.out.println("konstruktor C");	}		public void m(int c) {		super.m(2);		super.i++;		System.out.println("metoda C");	}		//public void fm() {			//}	}

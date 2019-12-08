@@ -1,0 +1,1 @@
+package sk.stuba.fiit.dedenie;public class Hlavna {	public static void main(String[] args) {		// TODO Auto-generated method stub		new A(2);		new B();		new B().m();		new C().m();		//new C().fm	}}
